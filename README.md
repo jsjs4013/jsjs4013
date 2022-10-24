@@ -18,3 +18,9 @@ Here are some ideas to get you started:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jsjs4013)](https://github.com/jsjs4013)
 
 ![Notion](https://historical-headlight-fb4.notion.site/43c2e5b773c14586ab8bd613eab26bdc)
+### ME
+
+<p>
+  <a href="https://binary01.me" target="_blank"><img src="https://img.shields.io/badge/Blog-663399?style=flat&logo=Gatsby&logoColor=white"/></a>
+    <a href="https://likeable-eggnog-5b5.notion.site/3f392501751642748182e0caf75fcf47" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=Notion&logoColor=white"/></a></a>
+</p>
