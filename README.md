@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jsjs4013)](https://github.com/jsjs4013)
+
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
