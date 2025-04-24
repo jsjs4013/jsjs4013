@@ -21,5 +21,4 @@ Here are some ideas to get you started:
 
 <p>
   <a href="https://chloelab.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-663399?style=flat&logo=Gatsby&logoColor=white"/></a>
-    <a href="https://historical-headlight-fb4.notion.site/43c2e5b773c14586ab8bd613eab26bdc" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=Notion&logoColor=white"/></a>
 </p>
